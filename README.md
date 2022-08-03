@@ -25,3 +25,9 @@
   2nd - Abhijeet Singh
   3rd - Abhijeet123
   4th - hellow everyone I am frontend - Backend android developer from India.
+
+# Issue 2 resolved
+  1st - hacktoberfest 2021
+  2nd - Akm Singh
+  3rd - A123
+  4th - hellow everyone I am frontend - Backend android developer from India.
